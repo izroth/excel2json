@@ -1,0 +1,25 @@
+{
+  "name": "excel-2-json",
+  "version": "1.0.0",
+  "description": "it converts excel to json value",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izroth/excel2json.git"
+  },
+  "keywords": [
+    "excel2json"
+  ],
+  "author": "lakhan sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izroth/excel2json/issues"
+  },
+  "homepage": "https://github.com/izroth/excel2json#readme",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
