@@ -1,4 +1,4 @@
-//create a module to convert excel data to json
+
 
 var xlsx = require('xlsx');
 var fs = require('fs');
