@@ -1,5 +1,5 @@
 {
-  "name": "excel-2-json",
+  "name": "exl-2-json",
   "version": "1.0.0",
   "description": "it converts excel to json value",
   "main": "index.js",
